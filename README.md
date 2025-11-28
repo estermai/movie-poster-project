@@ -6,7 +6,7 @@ Este é um projeto de cartaz de filme desenvolvido durante a minha aula de UI/UX
 🖼️ Resultado Final
 
 <p align="center">
-  <img src="stranger things png" width="350">
+  <img src="stranger things png.png" width="350">
 </p>
 
 📚 Sobre o projeto
